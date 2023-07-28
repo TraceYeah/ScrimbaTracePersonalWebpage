@@ -38,7 +38,7 @@ img {
 }
 
 a {
-    color: var(--text);
+    color: rgb(59, 4, 135) (--text);
 }
 
 input {
@@ -75,3 +75,6 @@ button {
     width: 210px;
     
 }
+
+
+

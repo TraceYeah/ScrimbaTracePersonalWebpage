@@ -1,17 +1,17 @@
 // Challenge 2:
 // Replace the arguments below according to your preference.
 
-// space, scary, military, romantic, cowboy, fantasy, superhero
-favouriteMovieGenre("cowboy")
+// space, scary, military, romantic, , fantasy, superhero
+favouriteMovieGenre("fantasy")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("blueberry")
+favouriteFruit("oblueberry")
 
 // light, dark
 favouriteMode("dark")
 
 // sharp, soft, round
-favouriteEdgeStyle("round")
+favouriteEdgeStyle("soft")
 
 
 
