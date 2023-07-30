@@ -35,21 +35,6 @@ img {
     border: 4px solid var(--text);
 }
 
-/*
-#myNameHeader {
-    text-align: center;
-    display: block;
-    margin: 0px;
-
-}
-
-#funFactsHeader {
-    text-align: center;
-    display: block;
-    margin: 22px;
-}
-*/
-
 a {
     color: rgb(59, 4, 135) (--text);
 }
