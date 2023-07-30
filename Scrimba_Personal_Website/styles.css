@@ -1,11 +1,5 @@
 :root {
-    --superhero: 'Bangers', cursive;
-    --fantasy: 'MedievalSharp', cursive;
-    --space: 'Orbitron', sans-serif;
-    --military: 'Black Ops One', cursive;
-    --romantic: 'La Belle Aurore', cursive;
-    --scary: 'Creepster', cursive;
-    --cowboy: 'Rye', cursive;
+   
     --regular: sans-serif;
     --fantasy: 'MedievalSharp', cursive;
     --font: var(--regular);
